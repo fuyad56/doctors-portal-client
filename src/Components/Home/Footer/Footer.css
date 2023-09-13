@@ -1,0 +1,5 @@
+.footer-container {
+    background-image: url("../../../images/footer.png");
+    background-size: cover;
+    z-index: -50;
+}
