@@ -25,7 +25,7 @@ const MakeAppointment = () => {
               here', making it look like readable English. Many desktop
               publishing packages and web page
             </p>
-            <button className="px-8 py-2 rounded-lg bg-gradient-to-r from-[#0FCFEC] to-[#19D3AE] text-lg font-medium text-gray-50 shadow-xl hover:scale-[1.06] duration-500">
+            <button className="px-8 py-2 rounded-lg bg-gradient-to-r from-[#0FCFEC] to-[#19D3AE] text-lg font-medium text-gray-50 shadow-xl hover:rounded-full">
               Ger started
             </button>
           </div>

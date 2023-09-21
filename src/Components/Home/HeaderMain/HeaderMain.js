@@ -14,7 +14,7 @@ const HeaderMain = () => {
           vitae quisquam temporibus autem sapiente exercitationem asperiores.
           Accusamus tenetur consequatur dolorum!
         </p>
-        <button className="px-8 py-2 rounded-lg bg-gradient-to-r from-[#0FCFEC] to-[#19D3AE] text-lg font-medium text-gray-50 shadow-xl hover:scale-[1.06] duration-500">Get Appointment</button>
+        <button className="px-8 py-2 rounded-lg bg-gradient-to-r from-[#0FCFEC] to-[#19D3AE] text-lg font-medium text-gray-50 shadow-xl hover:rounded-full">Get Appointment</button>
       </div>
       <div>
         <img src={chair} alt="" className="shadow-xl" />

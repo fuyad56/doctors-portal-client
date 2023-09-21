@@ -22,7 +22,7 @@ const Contact = () => {
             <input
               type="submit"
               value="Submit"
-              className="px-8 py-2 rounded-lg bg-gradient-to-r from-[#0FCFEC] to-[#19D3AE] text-lg font-medium text-gray-50 shadow-md hover:scale-[1.06] duration-500"
+              className="px-8 py-2 rounded-lg bg-gradient-to-r from-[#0FCFEC] to-[#19D3AE] text-lg font-medium text-gray-50 shadow-md hover:rounded-full"
             />
           </form>
         </div>

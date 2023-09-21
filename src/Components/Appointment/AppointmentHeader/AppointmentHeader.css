@@ -1,0 +1,6 @@
+.appointment-container {
+    background-image: url("../../../images/bg.png");
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
